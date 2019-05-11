@@ -1,0 +1,14 @@
+<annotation>
+	<folder>&#53945;&#49457;&#54868;&#49892; - &#54217;&#47732; &#51060;&#48120;&#51648;</folder>
+	<filename>AREA_00979.jpg</filename>
+	<path>C:\Users\GIGABYTE\Desktop\&#53945;&#49457;&#54868;&#49892; - &#54217;&#47732; &#51060;&#48120;&#51648;\AREA_00979.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>AreaLight1</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1290</xmin><ymin>278</ymin><xmax>1538</xmax><ymax>320</ymax></bndbox></object></annotation>

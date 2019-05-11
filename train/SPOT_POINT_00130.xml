@@ -1,0 +1,14 @@
+<annotation>
+	<folder>rename &#50756;&#47308;</folder>
+	<filename>SPOT_POINT_00055.jpg</filename>
+	<path>C:\Users\Yuriver\Documents\&#53945;&#49457;&#54868;&#49892;2\Crop &#54596;&#50836;\rename &#50756;&#47308;\SPOT_POINT_00055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>PointLight1</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1375</xmin><ymin>195</ymin><xmax>1402</xmax><ymax>234</ymax></bndbox></object></annotation>

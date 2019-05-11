@@ -1,0 +1,14 @@
+<annotation>
+	<folder>Labeling &#54596;&#50836;</folder>
+	<filename>SPOT_POINT_02156.jpg</filename>
+	<path>C:\Users\Yuriver\Documents\&#53945;&#49457;&#54868;&#49892;2\Labeling &#54596;&#50836;\SPOT_POINT_02156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>PointLight1</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>958</xmin><ymin>302</ymin><xmax>976</xmax><ymax>328</ymax></bndbox></object></annotation>
