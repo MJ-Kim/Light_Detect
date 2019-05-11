@@ -1,0 +1,14 @@
+item{
+    id: 1
+    name: 'AreaLight1'
+}
+
+item{
+    id: 2
+    name: 'SpotLight1'
+}
+
+item{
+    id: 3
+    name: 'PointLight1'
+}
