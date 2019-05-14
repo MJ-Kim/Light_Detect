@@ -209,7 +209,7 @@ class ObjectDetector():
         f.write(x_header+x_output.decode('utf-8'))
 
         time4 = time.time()
-
+        print(time2-time1, time3-time2, time4-time3)
         return frame
 
     def get_jpg_bytes(self):
