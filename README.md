@@ -61,6 +61,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - faster_rcnn_resnet101
 ![faster_rcnn_resnet101 Total_losses](./Total_loss/faster_rcnn_resnet101.PNG)
 - faster_rcnn_inception_resnet_v2
-![faster_rcnn_inception_resnet_v2](./Total_loss/faster_rcnn_inception_resnet.PNG)
+![faster_rcnn_inception_resnet_v2](./Total_loss/faster_rcnn_inception_resnet_v2.PNG)
 - ssd_mobilenet_v2
 - ssd_inception_v2
