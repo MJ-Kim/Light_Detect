@@ -65,4 +65,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - ssd_mobilenet_v2
 ![ssd_mobilenet_v2](./Total_loss/ssd_mobilenet_v1.PNG)
 - ssd_inception_v2
-![ssd_inception_v2](./Total_loss/ssd_inceptionv2.PNG)
+![ssd_inception_v2](./Total_loss/ssd_inceptionv2.png)
