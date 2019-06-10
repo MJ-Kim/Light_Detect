@@ -55,12 +55,18 @@ See the License for the specific language governing permissions andlimitations u
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-<br>
+<br>9
 <br>
 # Graph list
 - faster_rcnn_resnet101
+<br>
 ![faster_rcnn_resnet101 Total_losses](./Total_loss/faster_rcnn_resnet101.PNG)
 - faster_rcnn_inception_resnet_v2
+<br>
 ![faster_rcnn_inception_resnet_v2](./Total_loss/faster_rcnn_inception_resnet_v2.PNG)
 - ssd_mobilenet_v2
+<br>
+![ssd_mobilenet_v2](./Total_loss/ssd_mobilenet_v1.PNG)
 - ssd_inception_v2
+<br>
+![ssd_inception_v2](./Total_loss/ssd_inceptionv2.PNG)
