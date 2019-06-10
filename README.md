@@ -60,9 +60,12 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 # Graph list
 - faster_rcnn_resnet101
 ![faster_rcnn_resnet101 Total_losses](./Total_loss/faster_rcnn_resnet101.PNG)
+<br>
 - faster_rcnn_inception_resnet_v2
 ![faster_rcnn_inception_resnet_v2](./Total_loss/faster_rcnn_inception_resnet_v2.PNG)
+<br>
 - ssd_mobilenet_v2
 ![ssd_mobilenet_v2](./Total_loss/ssd_mobilenet_v1.PNG)
+<br>
 - ssd_inception_v2
 ![ssd_inception_v2](./Total_loss/ssd_inceptionv2.png)
